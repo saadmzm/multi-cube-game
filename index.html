@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link data-trunk rel="rust" data-bin="client" />
+    <meta charset="UTF-8">
+    <title>Multiplayer</title>
+</head>
+<body>
+    <script type="module">
+        import init from './client.js';
+        init().then(() => console.log("WASM Loaded"))
+    </script>
+</body>
+</html>
