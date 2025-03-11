@@ -9,7 +9,7 @@ description = "A simple multiplayer game using Bevy and REnet"
 bevy = "0.13.2"
 bevy_renet = {version = "0.0.11", features = ["serde"]}
 bincode = "1.3.3"
-rand = "0.8.5"
+rand = "0.9.0"
 renet = "0.0.15"
 serde = "1.0.203"
 
