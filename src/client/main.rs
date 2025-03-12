@@ -1,3 +1,4 @@
+#![allow(dead_code)]
 use std::{collections::HashMap, net::{SocketAddrV4, UdpSocket}, time::SystemTime};
 
 use bevy::{app::{App, Startup, Update}, log::info, DefaultPlugins};
