@@ -1,4 +1,13 @@
-# Usage
+# Simple Multiplayer Game
+
+## Setup
+
+- Install [Rust](https://www.rust-lang.org/tools/install)
+- Clone this repository.
+- Open VSCode.
+- Change directory to this repository in the terminal.
+
+## Usage
 
 - Run the commands in different terminals.
 
